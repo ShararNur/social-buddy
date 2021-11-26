@@ -1,0 +1,8 @@
+.post-detail-container {
+  margin: 30px 450px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px silver;
+  padding: 50px 50px;
+  text-align: left;
+}
